@@ -2,7 +2,7 @@ module.exports = {
   title: 'lfs管理系统',
 
   /**
-   * 是否系统布局配置
+   * 是否系统布局配置  auth yiquan666
    */
   showSettings: false,
 
